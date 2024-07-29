@@ -20,15 +20,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Telegram Link : https://t.me/RknDeveloper 
-Repo Link : https://github.com/RknDeveloper/RknFileRenameBot
-License Link : https://github.com/RknDeveloper/Rkn-rename-bot-V3/blob/main/LICENSE
+Telegram Link : https://t.me/scrooge010
+Repo Link : https://t.me/scrooge010
+License Link : https://t.me/scrooge010
 """
-__name__ = "Digital-Rename-Bot"
-__version__ = "3.0.3"
+__name__ = "ADG-Rename-Bot"
+__version__ = "1.0.3"
 __license__ = " Apache License, Version 2.0"
-__copyright__ = "Copyright (C) 2022-present RknDeveloper <https://github.com/RknDeveloper>"
-__developer__ = "RknDeveloper <https://github.com/RknDeveloper>"
+__copyright__ = "Copyright (C) 2022-present RknDeveloper <https://t.me/scrooge010>"
+__developer__ = "ADGDeveloper <https://t.me/scrooge010>"
 
 # main working files 
 # - bot.py
