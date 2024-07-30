@@ -1,11 +1,3 @@
-# (c) @RknDeveloperr
-# Rkn Developer 
-# Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Bots
-# Developer @RknDeveloperr
-# Special Thanks To @ReshamOwner
-# Update Channel @Digital_Botz & @DigitalBotz_Support
-
 from pyrogram import Client, filters
 from pyrogram.enums import MessageMediaType
 from pyrogram.errors import FloodWait
@@ -108,7 +100,7 @@ async def doc(bot, update):
         suffix = await db.get_suffix(user_id)
         new_filename = add_prefix_suffix(new_filename_, prefix, suffix)
     except Exception as e:
-        return await update.message.edit(f"⚠️ Something went wrong can't able to set Prefix or Suffix ☹️ \n\n❄️ Contact My Creator -> @RknDeveloperr\nError: {e}")
+        return await update.message.edit(f"⚠️ Something went wrong can't able to set Prefix or Suffix ☹️ \n\n❄️ Contact My Creator -> @scrooge010\nError: {e}")
 
     # msg file location 
     file = update.message.reply_to_message
@@ -278,13 +270,6 @@ async def doc(bot, update):
             if path:
                 os.remove(path)
             return await ms.edit(f" Eʀʀᴏʀ {e}")
-
-# some new feature adding soon ( sample screenshot & sample video )
-# please give fork & star and share with your friends repo
-# please don't sell the repo ( it's free 🥰)
-# please give 200 Fork & 200 star target 🎯 
-# fast guys now support again started 
-	
     await ms.delete()
     if ph_path:
         os.remove(ph_path)
@@ -292,12 +277,3 @@ async def doc(bot, update):
         os.remove(file_path)
     if metadata_path:
         os.remove(metadata_path)
-    
-#@RknDeveloper
-#✅ Team-RknDeveloper
-# Rkn Developer 
-# Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Bots
-# Developer @RknDeveloperr
-# Special Thanks To @ReshamOwner
-# Update Channel @Digital_Botz & @DigitalBotz_Support
