@@ -1,10 +1,3 @@
-# (c) @RknDeveloperr
-# Rkn Developer 
-# Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Bots
-# Developer @RknDeveloperr
-# Update Channel @Digital_Botz & @DigitalBotz_Support
-
 import aiohttp, asyncio, warnings, pytz, datetime
 import logging, logging.config, glob, sys, importlib, pyromod
 from pathlib import Path
@@ -95,9 +88,3 @@ def main():
 if __name__ == "__main__":
     warnings.filterwarnings("ignore", message="There is no current event loop")
     main()
-    
-# Rkn Developer 
-# Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Bots
-# Developer @RknDeveloperr
-# Update Channel @Digital_Botz & @DigitalBotz_Support
