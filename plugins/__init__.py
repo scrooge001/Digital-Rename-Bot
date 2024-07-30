@@ -25,10 +25,9 @@ Repo Link : https://t.me/scrooge010
 License Link : https://t.me/scrooge010
 """
 __name__ = "ADG-Rename-Bot"
-__version__ = "1.0.3"
+__version__ = "1.0"
 __license__ = " Apache License, Version 2.0"
-__copyright__ = "Copyright (C) 2022-present RknDeveloper <https://t.me/scrooge010>"
-__developer__ = "ADGDeveloper <https://t.me/scrooge010>"
+__copyright__ = "Copyright (C) 2024-present ScroogeX <https://t.me/scrooge010>"
 
 # main working files 
 # - bot.py
